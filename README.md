@@ -1,6 +1,6 @@
 
 # 🏟️ Custom Object Detection with Detectron2
-![image alt]()
+![image alt](a-stadium-filled-with-people-the-central_CHeOWy-iRjOySovf7091CQ_7LUxAEKpQ-ashprO0ivlvA.jpeg)
 # 📁 Project Structure
 
     ├── Custom_object_Detection_using_Detectron2.ipynb
